@@ -17,6 +17,7 @@ Fields Used: Category, Sub-Category, Sales, Profit, Region, Quantity, Order Date
 SUPERSTORE SALES DASHBOARD.pbix – Power BI report
 SUPERSTORE SALES DASHBOARD.pptx – Presentation summary
 Superstore_dashboard.png – Final dashboard image
+
 ✅ Outcome
 
 This dashboard helped visualize sales insights and business trends effectively using a clean and interactive layout.
